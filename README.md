@@ -2,11 +2,6 @@
 
 A curated list of useful links to read
 
-# Elixir
-
-* [THE COMPLETE GUIDE TO UPSERTS WITH ECTO](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
-* [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
-
 # Blockchain 
 
 * [How to Build a Blockchain](https://lisk.com/blog/posts/how-build-blockchain)
@@ -14,3 +9,13 @@ A curated list of useful links to read
 * [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
 * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
+* [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
+
+# Elixir
+
+* [THE COMPLETE GUIDE TO UPSERTS WITH ECTO](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
+* [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
+
+# Rust
+
+* [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
