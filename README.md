@@ -13,3 +13,4 @@ A curated list of useful links to read
 * [Learn about the Proof of Participation consensus mechanism](https://www.fiahub.com/en/blog/I-understand-you-have-a-proof-of-participation/#:~:text=Proof%20of%20Participation%20is%20a,to%20the%20blockchain%20more%20often)
 * [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
 * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
+* [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
