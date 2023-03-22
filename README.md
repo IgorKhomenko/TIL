@@ -1,6 +1,6 @@
 # Overview
 
-A curated list of useful guides 
+A curated list of useful links to read
 
 # Elixir
 
