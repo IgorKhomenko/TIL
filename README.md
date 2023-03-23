@@ -15,6 +15,7 @@ A curated list of useful links to read
 
 * [THE COMPLETE GUIDE TO UPSERTS WITH ECTO](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
 * [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
+* [Formatting GraphQL in Elixir projects](https://maartenvanvliet.nl/2022/01/26/absinthe_formatter/)
 
 # Rust
 
