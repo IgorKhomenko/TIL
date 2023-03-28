@@ -20,3 +20,14 @@ A curated list of useful links to read
 # Rust
 
 * [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
+
+# Sales
+
+* [What are Firmographics](https://snov.io/glossary/firmographics/)
+* [What is Lead Generation](https://snov.io/glossary/lead-generation/)
+* [What is an Ideal Customer Profile](https://snov.io/glossary/ideal-customer-profile/)
+* [What is Targeting](https://snov.io/glossary/targeting/)
+* [What is Market Segmentation](https://snov.io/glossary/segmentation/)
+* [What is Revenue](https://snov.io/glossary/revenue)
+* [What is Buyer Behavior](https://snov.io/glossary/buyer-behavior/)
+* [15 Marketing Strategies To Boost Your Business Growth In 2023](https://snov.io/blog/marketing-strategies-to-boost-business-growth/)
