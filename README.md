@@ -11,6 +11,10 @@ A curated list of useful links to read
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
 * [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
 
+# E2EE
+
+* [OMEMO end-to-end encryption for chat explained](https://blog.securegroup.com/omemo-end-to-end-encryption-for-chat-explained)
+
 # Elixir
 
 * [THE COMPLETE GUIDE TO UPSERTS WITH ECTO](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
