@@ -25,6 +25,10 @@ A curated list of useful links to read
 * [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [Formatting GraphQL in Elixir projects](https://maartenvanvliet.nl/2022/01/26/absinthe_formatter/)
 
+# Next.js
+
+* [Next.js client-only SPA example](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+
 # Rust
 
 * [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
