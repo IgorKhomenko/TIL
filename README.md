@@ -24,6 +24,8 @@ A curated list of useful links to read
 * [THE COMPLETE GUIDE TO UPSERTS WITH ECTO](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
 * [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [Formatting GraphQL in Elixir projects](https://maartenvanvliet.nl/2022/01/26/absinthe_formatter/)
+* [How to set timestamps to UTC DateTimes in Ecto](http://www.creativedeletion.com/2019/06/17/utc-timestamps-in-ecto.html)
+* [What is the difference between utc_datetime and naive_datetime in Ecto?](https://elixirguides.com/2019/06/what-is-the-difference-between-utc_datetime-and-naive_datetime-in-ecto/)
 
 # Next.js
 
