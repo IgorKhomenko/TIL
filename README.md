@@ -35,7 +35,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 
 # Database
 
-* [Compare databases table](https://technically.dev/database-database)
+* [Compare databases](https://technically.dev/database-database)
 
 # E2EE
 
