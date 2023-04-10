@@ -4,11 +4,31 @@ A curated list of useful links to read
 
 # Blockchain 
 
-* [What Is Cryptocurrency?](https://academy.binance.com/en/articles/what-is-a-cryptocurrency)
+* Base
+  * [What Is Cryptocurrency?](https://academy.binance.com/en/articles/what-is-a-cryptocurrency)
+  * [What Is Cryptocurrency Mining?](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining)
+    * [Cryptography](https://academy.binance.com/en/glossary/cryptography)
+    * [What is Public Key Cryptography?](https://academy.binance.com/en/articles/what-is-public-key-cryptography)
+    * [Mining](https://academy.binance.com/en/glossary/mining)
+    * [Block](https://academy.binance.com/en/glossary/block)
+  * [What Is a Crypto Wallet?](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
+  * [What Is Blockchain Technology? The Ultimate Guide](https://academy.binance.com/en/articles/what-is-blockchain-technology-a-comprehensive-guide-for-beginners)
+  * [What Are Nodes?](https://academy.binance.com/en/articles/what-are-nodes)
+  * [What Is a Blockchain Consensus Algorithm?](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
+    * [What Is Proof of Work (PoW)?](https://academy.binance.com/en/articles/proof-of-work-explained)
+    * [What Is Proof of Stake (PoS)?](https://academy.binance.com/en/articles/proof-of-stake-explained)
+    * [Blockchain Consensus Mechanisms Beyond PoW and PoS](https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
+    * [Proof-of-Improved-Participation: A New Consensus Protocol for Blockchain
+Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CSSE_25516/TSP_CSSE_25516.pdf)
+  * [What Are Smart Contracts?](https://academy.binance.com/en/articles/what-are-smart-contracts)
+  * [What Are Decentralized Applications (DApps)?](https://academy.binance.com/en/articles/what-are-decentralized-applications-dapps)
+  * [Peer-to-Peer Networks Explained](https://academy.binance.com/en/articles/peer-to-peer-networks-explained)
+  * [What Is Fiat Currency?](https://academy.binance.com/en/articles/what-is-fiat-currency)
+  * [Blockchain Use Cases](https://academy.binance.com/en/articles/blockchain-use-cases)
 * [How to Build a Blockchain](https://lisk.com/blog/posts/how-build-blockchain)
-* [Learn about the Proof of Participation consensus mechanism](https://www.fiahub.com/en/blog/I-understand-you-have-a-proof-of-participation/#:~:text=Proof%20of%20Participation%20is%20a,to%20the%20blockchain%20more%20often)
-* [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
-* [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
+* Networks
+  * [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
+  * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
 * [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
 
