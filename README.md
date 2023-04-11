@@ -20,9 +20,9 @@ A curated list of useful links to read
     * [AWS: What Is Blockchain Technology?](https://aws.amazon.com/what-is/blockchain/?nc1=h_ls&aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc)
   * [What Are Nodes?](https://academy.binance.com/en/articles/what-are-nodes)
   * [What Is a Blockchain Consensus Algorithm?](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
+    * [Byzantine Fault Tolerance Explained](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained) 
     * [What Is Proof of Work (PoW)?](https://academy.binance.com/en/articles/proof-of-work-explained)
     * [What Is Proof of Stake (PoS)?](https://academy.binance.com/en/articles/proof-of-stake-explained)
-    * [Byzantine Fault Tolerance Explained](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
     * [Blockchain Consensus Mechanisms Beyond PoW and PoS](https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
     * [Proof-of-Improved-Participation: A New Consensus Protocol for Blockchain
 Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CSSE_25516/TSP_CSSE_25516.pdf)
