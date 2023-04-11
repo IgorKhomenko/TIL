@@ -6,6 +6,7 @@ A curated list of useful links to read
 
 * Base
   * [What Is Cryptocurrency?](https://academy.binance.com/en/articles/what-is-a-cryptocurrency)
+  * [History of Blockchain](https://academy.binance.com/en/articles/history-of-blockchain)
   * [What Is Cryptocurrency Mining?](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining)
     * [Cryptography](https://academy.binance.com/en/glossary/cryptography)
     * [What is Public Key Cryptography?](https://academy.binance.com/en/articles/what-is-public-key-cryptography)
