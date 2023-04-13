@@ -38,6 +38,8 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
     * [What are Avalanche subnets?](https://chainstack.com/avalanche-subnet-tutorial-what-is-the-subnet/) 
     * [Running a local Avalanche node on Fuji testnet / Run Avalanche validator node](https://chainstack.com/avalanche-subnet-tutorial-series-running-a-local-avalanche-node-on-fuji-testnet/)
     * [Creating an Avalanche subnet and a blockchain](https://chainstack.com/avalanche-subnet-tutorial-series-creating-subnet-then-create-a-blockchain-on-it/)
+    * [Avalanche smart contracts](https://chainstack.com/avalanche-subnet-tutorial-series-deploying-a-smart-contract/)
+    * [Indexing subnet with The Graph](https://chainstack.com/avalanche-subnet-tutorial-series-indexing-subnet-with-the-graph/)
     * [HOW TO CREATE A CUSTOM BLOCKCHAIN ON AVALANCHE ?](https://www.leewayhertz.com/create-a-custom-blockchain-on-avalanche/)
   * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
