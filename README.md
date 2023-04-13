@@ -35,7 +35,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [How to Build a Blockchain](https://lisk.com/blog/posts/how-build-blockchain)
 * Networks
   * [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
-    * [Running a local Avalanche node on Fuji testnet](https://chainstack.com/avalanche-subnet-tutorial-series-running-a-local-avalanche-node-on-fuji-testnet/)
+    * [Running a local Avalanche node on Fuji testnet / Run Avalanche validator node](https://chainstack.com/avalanche-subnet-tutorial-series-running-a-local-avalanche-node-on-fuji-testnet/)
     * [HOW TO CREATE A CUSTOM BLOCKCHAIN ON AVALANCHE ?](https://www.leewayhertz.com/create-a-custom-blockchain-on-avalanche/)
   * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
