@@ -35,6 +35,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [How to Build a Blockchain](https://lisk.com/blog/posts/how-build-blockchain)
 * Networks
   * [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
+    * [Running a local Avalanche node on Fuji testnet](https://chainstack.com/avalanche-subnet-tutorial-series-running-a-local-avalanche-node-on-fuji-testnet/)
   * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
 * [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
