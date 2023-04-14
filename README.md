@@ -12,11 +12,13 @@ A curated list of useful links to read
     * [What is Public Key Cryptography?](https://academy.binance.com/en/articles/what-is-public-key-cryptography)
     * [Mining](https://academy.binance.com/en/glossary/mining)
     * [Block](https://academy.binance.com/en/glossary/block)
+  * Accounts / Wallet
+    * [What Is a Crypto Wallet?](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
+    * [What's the difference between Accounts and Wallets](https://ethereum.stackexchange.com/a/213/116053)
   * Security 
     * [What Is a 51% Attack?](https://academy.binance.com/en/articles/what-is-a-51-percent-attack)
     * [Byzantine Fault Tolerance Explained](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
     * [What Is a Replay Attack?](https://academy.binance.com/en/articles/what-is-a-replay-attack)
-  * [What Is a Crypto Wallet?](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
   * [What Is Blockchain Technology? The Ultimate Guide](https://academy.binance.com/en/articles/what-is-blockchain-technology-a-comprehensive-guide-for-beginners)
     * [AWS: What Is Blockchain Technology?](https://aws.amazon.com/what-is/blockchain/?nc1=h_ls&aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc)
   * [What Are Nodes?](https://academy.binance.com/en/articles/what-are-nodes)
