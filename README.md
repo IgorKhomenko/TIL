@@ -17,6 +17,7 @@ A curated list of useful links to read
     * [What's the difference between Accounts and Wallets](https://ethereum.stackexchange.com/a/213/116053)
     * [Ethereum wallet Vs Ethereum account?](https://ethereum.stackexchange.com/a/69693/116053)
     * [Externally Owned Accounts / Contract Accounts](https://ethereum.stackexchange.com/a/5829/116053)
+    * [Finally Understanding Ethereum Accounts](https://dev.to/q9/finally-understanding-ethereum-accounts-1kpe)
   * Security 
     * [What Is a 51% Attack?](https://academy.binance.com/en/articles/what-is-a-51-percent-attack)
     * [Byzantine Fault Tolerance Explained](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
