@@ -15,6 +15,7 @@ A curated list of useful links to read
   * Accounts / Wallet
     * [What Is a Crypto Wallet?](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
     * [What's the difference between Accounts and Wallets](https://ethereum.stackexchange.com/a/213/116053)
+    * [Ethereum wallet Vs Ethereum account?] https://ethereum.stackexchange.com/a/69693/116053
   * Security 
     * [What Is a 51% Attack?](https://academy.binance.com/en/articles/what-is-a-51-percent-attack)
     * [Byzantine Fault Tolerance Explained](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
