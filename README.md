@@ -45,6 +45,9 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
   * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
 * [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
+* Create A Cryptocurrency Token
+  * [How to Create A Cryptocurrency Token Using Smart Contract](https://refactorfirst.com/create-ethereum-cryptocurrency-token-smart-contract) 
+  * [How to Create A Cryptocurrency Wallet With Web3](https://refactorfirst.com/create-cryptocurrency-wallet-with-web3)
 
 # Database
 
