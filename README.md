@@ -60,6 +60,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 
 * [Compare databases](https://technically.dev/database-database)
 * [Considering using the Offset](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
+* [ULID — Universally Unique Lexicographically Sortable Identifier](https://victoryosayi.medium.com/ulid-universally-unique-lexicographically-sortable-identifier-d75c253bc6a8)
 
 # E2EE
 
@@ -72,6 +73,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [Formatting GraphQL in Elixir projects](https://maartenvanvliet.nl/2022/01/26/absinthe_formatter/)
 * [How to set timestamps to UTC DateTimes in Ecto](http://www.creativedeletion.com/2019/06/17/utc-timestamps-in-ecto.html)
 * [What is the difference between utc_datetime and naive_datetime in Ecto?](https://elixirguides.com/2019/06/what-is-the-difference-between-utc_datetime-and-naive_datetime-in-ecto/)
+* [UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
 
 # Next.js
 
