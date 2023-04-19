@@ -12,6 +12,7 @@ A curated list of useful links to read
     * [What is Public Key Cryptography?](https://academy.binance.com/en/articles/what-is-public-key-cryptography)
     * [Mining](https://academy.binance.com/en/glossary/mining)
     * [Block](https://academy.binance.com/en/glossary/block)
+  * [Minting](https://corporatefinanceinstitute.com/resources/cryptocurrency/minting-crypto/)
   * Accounts / Wallet
     * [What Is a Crypto Wallet?](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
     * [What's the difference between Accounts and Wallets](https://ethereum.stackexchange.com/a/213/116053)
