@@ -48,6 +48,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
     * [How To Set Up An Avalanche Node For The First Time](https://avatlon.net/how-to-set-up-an-avalanche-node-for-the-first-time-using-cloudjiffy/)
     * [Pending Transactions (AVAX)](https://support.bitcoin.com/en/articles/6471267-pending-transactions-avax)
     * [What do I do if MetaMask transactions are stuck or pending?](https://support.avax.network/en/articles/6100708-what-do-i-do-if-metamask-transactions-are-stuck-or-pending)
+    * [Avalanche Consensus](https://docs.avax.network/overview/getting-started/avalanche-consensus)
   * [What Is Polkadot (DOT)?](https://academy.binance.com/en/articles/what-is-polkadot-dot)
 * [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains)
 * [What Are Wrapped Tokens? How They Work and What They’re Used For](https://decrypt.co/resources/what-are-wrapped-tokens)
