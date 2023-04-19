@@ -91,3 +91,9 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [What is Revenue](https://snov.io/glossary/revenue)
 * [What is Buyer Behavior](https://snov.io/glossary/buyer-behavior/)
 * [15 Marketing Strategies To Boost Your Business Growth In 2023](https://snov.io/blog/marketing-strategies-to-boost-business-growth/)
+
+# WebRTC
+
+* NAT
+  * [Part1: Everything you never knew about NATs](https://educatedguesswork.org/posts/nat-part-1/)
+  * [Part2: NAT types and STUN](https://educatedguesswork.org/posts/nat-part-2/)
