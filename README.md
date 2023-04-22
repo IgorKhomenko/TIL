@@ -75,6 +75,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [How to set timestamps to UTC DateTimes in Ecto](http://www.creativedeletion.com/2019/06/17/utc-timestamps-in-ecto.html)
 * [What is the difference between utc_datetime and naive_datetime in Ecto?](https://elixirguides.com/2019/06/what-is-the-difference-between-utc_datetime-and-naive_datetime-in-ecto/)
 * [UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
+* [Excellent Migrations](https://hexdocs.pm/excellent_migrations/readme.html)
 
 # Next.js
 
