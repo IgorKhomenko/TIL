@@ -76,6 +76,11 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [What is the difference between utc_datetime and naive_datetime in Ecto?](https://elixirguides.com/2019/06/what-is-the-difference-between-utc_datetime-and-naive_datetime-in-ecto/)
 * [UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
 * [Excellent Migrations](https://hexdocs.pm/excellent_migrations/readme.html)
+* [Exploring Options for Storing Custom Data in Ecto](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
+
+# Jest
+
+* [Your Jest tests might be wrong](https://jamiemagee.co.uk/blog/your-jest-tests-might-be-wrong/)
 
 # Next.js
 
