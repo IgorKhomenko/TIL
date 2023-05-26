@@ -62,6 +62,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [Compare databases](https://technically.dev/database-database)
 * [Considering using the Offset](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
 * [ULID — Universally Unique Lexicographically Sortable Identifier](https://victoryosayi.medium.com/ulid-universally-unique-lexicographically-sortable-identifier-d75c253bc6a8)
+* [Index Merges vs Composite Indexes comparison](https://sirupsen.com/index-merges)
 
 # E2EE
 
