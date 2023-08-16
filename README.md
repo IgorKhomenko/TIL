@@ -78,6 +78,7 @@ Technology](https://file.techscience.com/ueditor/files/csse/TSP_CSSE-44-3/TSP_CS
 * [UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
 * [Excellent Migrations](https://hexdocs.pm/excellent_migrations/readme.html)
 * [Exploring Options for Storing Custom Data in Ecto](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
+* [Inspecting, changing and debugging Elixir project dependencies](https://blog.plataformatec.com.br/2016/03/inspecting-changing-and-debugging-elixir-project-dependencies/)
 
 # Jest
 
